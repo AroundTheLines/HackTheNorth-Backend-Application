@@ -1,0 +1,13 @@
+1. Storing & filtering the data by relevance to both applicants and sponsors would be ideal. That'd make it easier to process on the application side logic while keeping the data in a reliable format.
+
+2. Useful features? That depends on when we'd be building the features. For instance, if we're trying to build out some features before the hackathon happens / before all the acceptances have been rolled out, then it'd be really useful to build things such as maps of where people are coming in from so people can form local travel squads, or a skill based team recruitment plaform. As for things after the hackathon, we could build some analytics tools for some coolio medium posts that are pretty much a must for every big hackathon for things like gender, project member breakdowns, etc.
+
+3. Having access to the candidates resumes would make it significantly easier to sign on sponsors earlier if we used early access to these as a bonus, or just access to hacker resumes in general. Other things options such as "what workshops would you personally attend" would increase the likelihood of us providing in-hackathon events that people would (temporarily) leave their hacks for to attend, as well as have some fun!
+
+4. Metrics that we have? Or metrics that would be nice to have? On the "we have this" side, it's great to have relative skill levels so that guaging experience levels of our hackars is easer (first time hackers woo!), as well as where they're travelling from so we can make solid decisions on whether or not they should be admitted with travel reimbursement or not. (and also if they've been accepted / confirmed they're coming, which I added in my database)
+
+On the "nice to haves" side, it'd be great to have measures of hackathon experience, or "How many hackathons have you previously attended?" and "Are you interested in mentoring?". These would give us more control over the experienced vs newbie hacker ratio, so that everyone can get help if needed.
+
+5. Skill ratings are great for sponsors, countries/location data is great for heatmapping the places hackers are travelling from, and contact data is just plain useful for well, talking to our awesome hackers!
+
+6. It'd be really cool to have a mentoring hotline (webapp) instead of just a slack channel. Both would be optimal. That way hackers that are more shy to asking for help in the general slack can ask for help privately and know for sure that they've been answered. Also nighttime mentors would be ideal. I know WildHacks did this and it was a great success. It'd be awesome if Hack the North could too! (I'd love to personally work on this :D)
